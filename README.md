@@ -2,7 +2,7 @@
 
 Made by Ayush
 
-[Open Web App](https://cf-lockoutbot.streamlit.app/)
+[Open Web App](https://codeforces-lockout-bot-dhrpafh5zbrgnxdtdg8vnv.streamlit.app)
 
 ## Overview
 
